@@ -1,6 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
+  
   <a href="https://github.com/YeyoM/mazeSolver">
     <img src="public/icon.svg" alt="Logo" width="80" height="80">
   </a>
